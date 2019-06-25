@@ -1,1 +1,8 @@
-test
+
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    background: #2d2d2d;
+    color: white;
+    background: -webkit-linear-gradient(45deg, hsl(206, 50%, 50%), hsl(336, 50%, 50%));   
+}
